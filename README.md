@@ -37,7 +37,7 @@ This project demonstrates an end-to-end machine learning workflow, from data pre
 | Machine Learning | Scikit-learn |
 | Data Processing | Pandas, NumPy |
 | Data Visualization | Matplotlib, Seaborn |
-| Frontend | HTML, CSS, Bootstrap |
+| Frontend | HTML, CSS |
 | Model Persistence | Pickle |
 | Version Control | Git, GitHub |
 | Deployment | Render |
